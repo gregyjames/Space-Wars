@@ -1,0 +1,17 @@
+Content\bg.xnb
+Content\spaceship.xnb
+Content\Untitled-2.xnb
+Content\beam.xnb
+Content\heartempty.xnb
+Content\heartfull.xnb
+Content\intro.xnb
+Content\spritesheet11.xnb
+Content\livesup.xnb
+Content\shield.xnb
+Content\1w5nb.xnb
+Content\lifeup.xnb
+Content\SpriteFont1.xnb
+Content\photon-gun-burst.xnb
+Content\Explosion_Ultra.xnb
+Content\Space Trip.xnb
+Content\Space Trip.wma

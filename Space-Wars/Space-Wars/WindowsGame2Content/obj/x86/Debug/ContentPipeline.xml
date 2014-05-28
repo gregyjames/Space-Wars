@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bg.png</Source>
+      <Name>bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\madra_000\Desktop\Space wars\trunk\Space Wars\Space Wars\Space Wars\bin\x86\Debug\Content\bg.xnb</Output>
+      <Time>2014-04-16T23:35:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>spaceship.png</Source>
+      <Name>spaceship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\madra_000\Desktop\Space wars\trunk\Space Wars\Space Wars\Space Wars\bin\x86\Debug\Content\spaceship.xnb</Output>
+      <Time>2014-04-21T10:39:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Untitled-2.png</Source>
+      <Name>Untitled-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\madra_000\Desktop\Space wars\trunk\Space Wars\Space Wars\Space Wars\bin\x86\Debug\Content\Untitled-2.xnb</Output>
+      <Time>2014-04-22T10:35:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>beam.png</Source>
+      <Name>beam</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\madra_000\Desktop\Space wars\trunk\Space Wars\Space Wars\Space Wars\bin\x86\Debug\Content\beam.xnb</Output>
+      <Time>2014-05-02T10:29:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>heartempty.png</Source>
+      <Name>heartempty</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\madra_000\Desktop\Space wars\trunk\Space Wars\Space Wars\Space Wars\bin\x86\Debug\Content\heartempty.xnb</Output>
+      <Time>2014-05-05T10:57:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>heartfull.png</Source>
+      <Name>heartfull</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\madra_000\Desktop\Space wars\trunk\Space Wars\Space Wars\Space Wars\bin\x86\Debug\Content\heartfull.xnb</Output>
+      <Time>2014-05-05T10:57:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>intro.png</Source>
+      <Name>intro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\madra_000\Desktop\Space wars\trunk\Space Wars\Space Wars\Space Wars\bin\x86\Debug\Content\intro.xnb</Output>
+      <Time>2014-05-08T10:27:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>spritesheet11.png</Source>
+      <Name>spritesheet11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\madra_000\Desktop\Space wars\trunk\Space Wars\Space Wars\Space Wars\bin\x86\Debug\Content\spritesheet11.xnb</Output>
+      <Time>2014-05-14T10:40:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>livesup.png</Source>
+      <Name>livesup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\madra_000\Desktop\Space wars\trunk\Space Wars\Space Wars\Space Wars\bin\x86\Debug\Content\livesup.xnb</Output>
+      <Time>2014-05-22T10:24:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>shield.png</Source>
+      <Name>shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\madra_000\Desktop\Space wars\trunk\Space Wars\Space Wars\Space Wars\bin\x86\Debug\Content\shield.xnb</Output>
+      <Time>2014-05-22T10:24:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>imageedit_1_6009364582.png</Source>
+      <Name>1w5nb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\madra_000\Desktop\Space wars\trunk\Space Wars\Space Wars\Space Wars\bin\x86\Debug\Content\1w5nb.xnb</Output>
+      <Time>2014-05-22T17:41:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>imageedit_3_5421871460.png</Source>
+      <Name>lifeup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\madra_000\Desktop\Space wars\trunk\Space Wars\Space Wars\Space Wars\bin\x86\Debug\Content\lifeup.xnb</Output>
+      <Time>2014-05-22T17:44:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\madra_000\Desktop\Space wars\trunk\Space Wars\Space Wars\Space Wars\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2014-05-05T10:39:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>photon-gun-burst.wav</Source>
+      <Name>photon-gun-burst</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\madra_000\Desktop\Space wars\trunk\Space Wars\Space Wars\Space Wars\bin\x86\Debug\Content\photon-gun-burst.xnb</Output>
+      <Time>2014-05-13T10:18:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosion_Ultra.wav</Source>
+      <Name>Explosion_Ultra</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\madra_000\Desktop\Space wars\trunk\Space Wars\Space Wars\Space Wars\bin\x86\Debug\Content\Explosion_Ultra.xnb</Output>
+      <Time>2014-05-15T10:52:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Space Trip.mp3</Source>
+      <Name>Space Trip</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\madra_000\Desktop\Space wars\trunk\Space Wars\Space Wars\Space Wars\bin\x86\Debug\Content\Space Trip.xnb</Output>
+      <Extra>C:\Users\madra_000\Desktop\Space wars\trunk\Space Wars\Space Wars\Space Wars\bin\x86\Debug\Content\Space Trip.wma</Extra>
+      <Time>2014-05-15T10:40:48-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\madra_000\Desktop\Space wars\trunk\Space Wars\Space Wars\WindowsGame2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\madra_000\Desktop\Space wars\trunk\Space Wars\Space Wars\Space Wars\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\madra_000\Desktop\Space wars\trunk\Space Wars\Space Wars\WindowsGame2Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\madra_000\Desktop\Space wars\trunk\Space Wars\Space Wars\Space Wars\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-03-27T02:49:39.2024333-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

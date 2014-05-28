@@ -1,0 +1,106 @@
+E:\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bg.xnb
+E:\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+E:\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+E:\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.csprojResolveAssemblyReference.cache
+E:\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+E:\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+D:\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bg.xnb
+D:\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+D:\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+D:\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+D:\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+D:\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\spaceship.xnb
+D:\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Untitled-2.xnb
+C:\Users\madra_000\Desktop\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.csprojResolveAssemblyReference.cache
+C:\Users\madra_000\Desktop\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\madra_000\Desktop\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+C:\Users\madra_000\Desktop\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bg.xnb
+C:\Users\madra_000\Desktop\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\spaceship.xnb
+C:\Users\madra_000\Desktop\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Untitled-2.xnb
+C:\Users\madra_000\Desktop\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\beam.xnb
+C:\Users\madra_000\Desktop\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+C:\Users\madra_000\Desktop\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+C:\Users\madra_000\Desktop\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+H:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bg.xnb
+H:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\spaceship.xnb
+H:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Untitled-2.xnb
+H:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\beam.xnb
+H:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\heartempty.xnb
+H:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\heartfull.xnb
+H:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont1.xnb
+H:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Space Wars.exe.manifest
+H:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Space Wars.application
+H:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Space Wars.exe
+H:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Space Wars.pdb
+H:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Space Wars.TrustInfo.xml
+H:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Space Wars.exe.manifest
+H:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Space Wars.application
+H:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Space Wars.exe
+H:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Space Wars.pdb
+H:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\intro.xnb
+H:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\photon-gun-burst.xnb
+H:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\spritesheet11.xnb
+H:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Space Trip.xnb
+H:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Space Trip.wma
+H:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Explosion_Ultra.xnb
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.csprojResolveAssemblyReference.cache
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Space Wars.exe
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Space Wars.pdb
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bg.xnb
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\spaceship.xnb
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Untitled-2.xnb
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\beam.xnb
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\heartempty.xnb
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\heartfull.xnb
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\intro.xnb
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\spritesheet11.xnb
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\photon-gun-burst.xnb
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Explosion_Ultra.xnb
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Space Trip.xnb
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Space Trip.wma
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Space Wars.exe.manifest
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Space Wars.application
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Space Wars.exe
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Space Wars.pdb
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Space Wars.TrustInfo.xml
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Space Wars.exe.manifest
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Space Wars.application
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bg.xnb
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\spaceship.xnb
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Untitled-2.xnb
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\beam.xnb
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\heartempty.xnb
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\heartfull.xnb
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\intro.xnb
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\spritesheet11.xnb
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\livesup.xnb
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\shield.xnb
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\photon-gun-burst.xnb
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Explosion_Ultra.xnb
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Space Trip.xnb
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Space Trip.wma
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Space Wars.exe.manifest
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Space Wars.application
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Space Wars.exe
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Space Wars.pdb
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Space Wars.TrustInfo.xml
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Space Wars.exe.manifest
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Space Wars.application
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Space Wars.exe
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Space Wars.pdb
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\livesup.xnb
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\shield.xnb
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\lifeup.xnb
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\lifeup.xnb
+D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\1w5nb.xnb
+E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\1w5nb.xnb
