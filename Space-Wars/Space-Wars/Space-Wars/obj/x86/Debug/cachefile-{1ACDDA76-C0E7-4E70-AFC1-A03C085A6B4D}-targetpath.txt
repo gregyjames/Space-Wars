@@ -10,9 +10,9 @@ Content\livesup.xnb
 Content\shield.xnb
 Content\1w5nb.xnb
 Content\lifeup.xnb
+Content\beam1.xnb
 Content\SpriteFont1.xnb
 Content\photon-gun-burst.xnb
 Content\Explosion_Ultra.xnb
 Content\Space Trip.xnb
 Content\Space Trip.wma
-Content\beam1.xnb

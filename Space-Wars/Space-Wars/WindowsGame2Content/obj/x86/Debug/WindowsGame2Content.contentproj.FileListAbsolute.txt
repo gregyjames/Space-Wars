@@ -6,3 +6,4 @@ E:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2Content\o
 D:\School\M256 James\C#\Projects\WindowsGame2\WindowsGame2\WindowsGame2Content\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\madra_000\Desktop\Space wars\trunk\Space Wars\Space Wars\WindowsGame2Content\obj\x86\Debug\WindowsGame2Content.contentprojResolveAssemblyReference.cache
 C:\Users\madra_000\Desktop\Space wars\trunk\Space-Wars\Space-Wars\WindowsGame2Content\obj\x86\Debug\WindowsGame2Content.contentprojResolveAssemblyReference.cache
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\WindowsGame2Content\obj\x86\Debug\WindowsGame2Content.contentprojResolveAssemblyReference.cache

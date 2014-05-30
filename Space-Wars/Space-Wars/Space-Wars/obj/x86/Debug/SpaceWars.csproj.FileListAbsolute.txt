@@ -55,3 +55,32 @@ C:\Users\madra_000\Desktop\Space wars\trunk\Space-Wars\Space-Wars\Space-Wars\obj
 C:\Users\madra_000\Desktop\Space wars\trunk\Space-Wars\Space-Wars\Space-Wars\obj\x86\Debug\Space Wars.exe
 C:\Users\madra_000\Desktop\Space wars\trunk\Space-Wars\Space-Wars\Space-Wars\obj\x86\Debug\Space Wars.pdb
 C:\Users\madra_000\Desktop\Space wars\trunk\Space-Wars\Space-Wars\Space-Wars\bin\x86\Debug\Content\beam1.xnb
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\bin\x86\Debug\Content\bg.xnb
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\bin\x86\Debug\Content\spaceship.xnb
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\bin\x86\Debug\Content\Untitled-2.xnb
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\bin\x86\Debug\Content\beam.xnb
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\bin\x86\Debug\Content\heartempty.xnb
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\bin\x86\Debug\Content\heartfull.xnb
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\bin\x86\Debug\Content\intro.xnb
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\bin\x86\Debug\Content\spritesheet11.xnb
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\bin\x86\Debug\Content\livesup.xnb
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\bin\x86\Debug\Content\shield.xnb
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\bin\x86\Debug\Content\1w5nb.xnb
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\bin\x86\Debug\Content\lifeup.xnb
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\bin\x86\Debug\Content\beam1.xnb
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\bin\x86\Debug\Content\photon-gun-burst.xnb
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\bin\x86\Debug\Content\Explosion_Ultra.xnb
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\bin\x86\Debug\Content\Space Trip.xnb
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\bin\x86\Debug\Content\Space Trip.wma
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\bin\x86\Debug\Space Wars.exe.manifest
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\bin\x86\Debug\Space Wars.application
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\bin\x86\Debug\Space Wars.exe
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\bin\x86\Debug\Space Wars.pdb
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\obj\x86\Debug\SpaceWars.csprojResolveAssemblyReference.cache
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\obj\x86\Debug\Space Wars.TrustInfo.xml
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\obj\x86\Debug\Space Wars.exe.manifest
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\obj\x86\Debug\Space Wars.application
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\obj\x86\Debug\Space Wars.exe
+C:\Users\madra_000\Desktop\Space-Wars\Space-Wars\Space-Wars\Space-Wars\obj\x86\Debug\Space Wars.pdb
