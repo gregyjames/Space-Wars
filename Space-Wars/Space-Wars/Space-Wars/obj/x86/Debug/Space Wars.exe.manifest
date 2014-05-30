@@ -100,7 +100,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>K+DJPRcuLPU8O66rTDFbdm13fYY=</dsig:DigestValue>
+        <dsig:DigestValue>mRdEB5itcZGLb3KDbaVKpVI9dbI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -129,6 +129,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>5SlP2J1boADooxicAdSRzVeWINA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\beam1.xnb" size="766">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ymAwuvlmT3s/Hre+SqSMrRrqYtE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\bg.xnb" size="400520">
@@ -218,7 +227,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>46KCjXVmonqcFo4JQoLaa3E0DuA=</dsig:DigestValue>
+      <dsig:DigestValue>Bjsv5lF3IFiVMgfc3QovfgYg8Mo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\Space Trip.xnb" size="128">

@@ -28,7 +28,7 @@ namespace WindowsGame2
         List<beam> beams;
         List<beam1> beams1;
 	    KeyboardState oldState;
-        Texture2D intro, beamTex;
+        Texture2D intro, beamTex, beamTex1;
         SpriteFont Font;
         int damage = 5;
         string screen = "title";
@@ -209,6 +209,7 @@ namespace WindowsGame2
             Ship.SpriteTexture = Content.Load<Texture2D>("spaceship");
             enemies.SpriteTexture = Content.Load<Texture2D>("Untitled-2");
             beamTex = Content.Load<Texture2D>("beam");
+            beamTex1 = Content.Load<Texture2D>("beam1");
             Font = Content.Load<SpriteFont>("SpriteFont1");
             HeartFull = Content.Load<Texture2D>("heartfull");
             HeartEmpty = Content.Load<Texture2D>("heartempty");
@@ -319,7 +320,7 @@ namespace WindowsGame2
         private void AddBeam1(Vector2 pos1)
         {
             beam1 Beam1 = new beam1();
-            Beam1.init(GraphicsDevice.Viewport, beamTex, pos1, Ship.SpriteRectangle, colide);
+            Beam1.init(GraphicsDevice.Viewport, beamTex1, pos1, Ship.SpriteRectangle, colide);
             colide = false;
             beams1.Add(Beam1);
         }

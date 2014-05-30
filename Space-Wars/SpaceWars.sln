@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsGame2", "WindowsGame2\WindowsGame2\WindowsGame2.csproj", "{2C0AB518-DF6B-4D1F-A543-AF5F9622FEA0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsGame2", "Space-Wars\Space-Wars\SpaceWars.csproj", "{2C0AB518-DF6B-4D1F-A543-AF5F9622FEA0}"
 EndProject
-Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "WindowsGame2Content", "WindowsGame2\WindowsGame2Content\WindowsGame2Content.contentproj", "{1ACDDA76-C0E7-4E70-AFC1-A03C085A6B4D}"
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "WindowsGame2Content", "Space-Wars\WindowsGame2Content\WindowsGame2Content.contentproj", "{1ACDDA76-C0E7-4E70-AFC1-A03C085A6B4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
